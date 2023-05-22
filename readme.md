@@ -1,4 +1,4 @@
 # Simple Mp3 Player
 
-Made with Tkinker
+Made with Tkinker compiled with pyinstaller
 
